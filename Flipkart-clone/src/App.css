@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabarito:wght@500&family=Merriweather:wght@300&family=Roboto:wght@300;500;700&family=Varela+Round&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+:root{
+    --flipkart-lightBlue: #2874f0;
+    --header-text-color: white;
+    --primary-text-color: #212121;
+    --primary-bg-color: #ffffff;
+    --secondary-bg-color: #000000;
+    --primary-font-color: #ffffff;
+    --login-btn-bg: #fb641b;
+}
